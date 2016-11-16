@@ -36,8 +36,6 @@ Se decidió realizar el trabajo de la web bajo el framework de scrum para trabaj
 * Evelyn Farfan <e.farfanvaldivia@gmail.com>
 * Yeiny Gonzalez <yeinygonazalescifuentes@gmail.com>
 * Andrea Cabrera <andrea.palomino.ruby@gmail.com>
-* Liz Ruela <liz.ruelas@gmail.com>
-
 
 
 ###WIREFRAMES
@@ -70,8 +68,6 @@ Página ofrece al usuario buscar temas con el nombre de sus artistas favoritos y
 
 
 ###REQUERIMIENTOS
-
-* Realizar un login OAuth
 
 * El contexto del proyecto deber ser música / video
 
