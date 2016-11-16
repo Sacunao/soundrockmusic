@@ -42,10 +42,6 @@ Se decidió realizar el trabajo de la web bajo el framework de scrum para trabaj
 
 El boceto de nuestra página es el siguiente:
 
-![Imagen](http://4.1m.yt/qk67VHA.jpg "Imagen")
-
-![Imagen](http://1.1m.yt/2vn2N5s.jpg "Imagen")
-
 ![Imagen](http://4.1m.yt/8EutFLs.jpg "Imagen")
 
 
